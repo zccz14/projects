@@ -13,3 +13,6 @@
 [submodule "zccz14.com"]
 	path = zccz14.com
 	url = git@github.com:zccz14/zccz14.com.git
+[submodule "Web-Spider-Wenku8-Konosuba"]
+	path = Web-Spider-Wenku8-Konosuba
+	url = git@github.com:zccz14/Web-Spider-Wenku8-Konosuba.git
