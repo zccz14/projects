@@ -10,3 +10,6 @@
 [submodule "x86AssemblyFinal"]
 	path = x86AssemblyFinal
 	url = git@github.com:zccz14/x86AssemblyFinal.git
+[submodule "zccz14.com"]
+	path = zccz14.com
+	url = git@github.com:zccz14/zccz14.com.git
