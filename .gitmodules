@@ -4,3 +4,6 @@
 [submodule "Orange-Juice"]
 	path = Orange-Juice
 	url = git@github.com:function-x/Orange-Juice.git
+[submodule "x86AssemblyReport"]
+	path = x86AssemblyReport
+	url = git@github.com:zccz14/x86AssemblyReport.git
