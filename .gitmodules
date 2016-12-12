@@ -1,3 +1,6 @@
 [submodule "Web-Spider-nbswz"]
 	path = Web-Spider-nbswz
 	url = git@github.com:zccz14/Web-Spider-nbswz.git
+[submodule "Orange-Juice"]
+	path = Orange-Juice
+	url = git@github.com:function-x/Orange-Juice.git
