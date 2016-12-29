@@ -19,3 +19,9 @@
 [submodule "Orange-Juice.wiki"]
 	path = Orange-Juice.wiki
 	url = https://github.com/function-x/Orange-Juice.wiki.git
+[submodule "win32Frog"]
+	path = win32Frog
+	url = git@github.com:zccz14/win32Frog.git
+[submodule "pdf"]
+	path = pdf
+	url = git@github.com:zccz14/pdf.git
