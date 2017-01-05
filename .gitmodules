@@ -7,9 +7,6 @@
 [submodule "x86AssemblyReport"]
 	path = x86AssemblyReport
 	url = git@github.com:zccz14/x86AssemblyReport.git
-[submodule "x86AssemblyFinal"]
-	path = x86AssemblyFinal
-	url = git@github.com:zccz14/x86AssemblyFinal.git
 [submodule "Web-Spider-Wenku8-Konosuba"]
 	path = Web-Spider-Wenku8-Konosuba
 	url = git@github.com:zccz14/Web-Spider-Wenku8-Konosuba.git
@@ -34,3 +31,6 @@
 [submodule "react-source"]
 	path = react-source
 	url = git@github.com:zccz14/react-source.git
+[submodule "MagicTower"]
+	path = MagicTower
+	url = git@github.com:zccz14/MagicTower.git
