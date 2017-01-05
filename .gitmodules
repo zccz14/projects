@@ -25,3 +25,15 @@
 [submodule "pdf"]
 	path = pdf
 	url = git@github.com:zccz14/pdf.git
+[submodule "myblog/themes/next"]
+	path = myblog/themes/next
+	url = https://github.com/zccz14/hexo-theme-zccz14.git
+[submodule "hexo-theme-response"]
+	path = hexo-theme-response
+	url = git@github.com:zccz14/hexo-theme-response.git
+[submodule "blog"]
+	path = blog
+	url = git@github.com:zccz14/blog.git
+[submodule "react-source"]
+	path = react-source
+	url = git@github.com:zccz14/react-source.git
