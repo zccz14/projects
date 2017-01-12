@@ -34,3 +34,6 @@
 [submodule "MagicTower"]
 	path = MagicTower
 	url = git@github.com:zccz14/MagicTower.git
+[submodule "YAStrategy"]
+	path = YAStrategy
+	url = git@github.com:zccz14/YAStrategy.git
